@@ -27,8 +27,8 @@ pipeline {
                     junit "test-reports/results.xml"
                 }
             }
-        
+        }
+
+
     }
-
-
 }
